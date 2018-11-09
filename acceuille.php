@@ -14,7 +14,7 @@ session_start();
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ozalise Technologie 1</title>
+<title>Ozalise Technologie </title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 
 <!--jQuery(necessary for Bootstrap's JavaScript plugins)-->
